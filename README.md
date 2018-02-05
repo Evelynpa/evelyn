@@ -1,12 +1,13 @@
 # PORTFOLIO
 ## Detalles a considerar
 
--contraste: diferencia visual suficientemente notoria, puede ser de tamaño, de forma, de color, tiene que resaltar. 
--alineacion: alinear elementos, mantienen un margen, respecto a su contenedor
--balace: busca tener un peso equivalente en una composicion
--ritmo: los elementos vayan con cierta cadencia
--color sustractivo: a mas colores menos luz, ocuridad, el tope es negro
--color aditivo:suman hay luz, HSL: modo de color, primer valor angulo, segundo saturacion, menos es gris, mas saturacion mas blanco, medio es el color, tercero es luz
+``Contraste``: *diferencia visual suficientemente notoria, puede ser de tamaño, de forma, de color, tiene que resaltar.* 
+``Alineación``: *alinear elementos, mantienen un margen, respecto a su contenedor.*
+``Balance``: *busca tener un peso equivalente en una composición.*
+``Ritmo``: *los elementos vayan con cierta cadencia.*
+``Color sustractivo``: *a mas colores menos luz, los colores son amarillo, cyan y magenta, oscuridad, el tope es negro*
+``Color aditivo``:*suman hay luz, obtenidos por los tres colores, rojo, verde y azul, HSL: modo de color, primer valor angulo, segundo saturación, menos es gris, mas saturación mas blanco, medio es el color, tercero es luz.*
  
 
 ## Paleta de Colores
+[![paleta.png](https://s17.postimg.org/u5ivgbz27/paleta.png)](https://postimg.org/image/9le1hujaz/)
