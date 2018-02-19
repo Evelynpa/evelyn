@@ -1,0 +1,48 @@
+.box_uno{
+    @include cuadrados(200px, 200px, $blue);
+}
+.box_dos{
+    @include cuadrados(100px, 200px, $yellow);
+}
+
+// header
+.fondoTop{
+    width: 100%;
+    height: 15em;
+   
+}
+// datos
+.containerDatos{
+    background-color: #e6e6e6;
+}
+.datos{
+    text-align: center;
+}
+.fotoPerfil{
+    width: 200px;
+    height: 200px;
+    background-color: #00ebcc;
+    border-radius: 50%;
+    display: inline-block;
+}
+.parrafo{
+    text-align: center;
+    padding: 5em
+}
+.colorImgLogos{
+    background-color: #6f04c4;
+    text-align: center
+}
+.imglogosIcon{
+    width: 8em;
+    margin: 0 2em;
+}
+// proyectos
+.sectionProyects{
+    text-align: center
+}
+.imglogos{
+    width: 12em;
+    display: block;
+    
+}
